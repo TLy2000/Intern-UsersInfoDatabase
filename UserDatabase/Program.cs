@@ -31,6 +31,7 @@ namespace UserDatabase
             int col = excel.CountColumns(1);
             int row = excel.CountRows(1);
             excel.ReadRange(row, col);
+            excel.Save();
             excel.Close();
 
             Console.ReadKey();
