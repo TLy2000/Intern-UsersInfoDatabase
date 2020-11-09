@@ -1,0 +1,8 @@
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\bin\Debug\UserDatabase.exe.config
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\bin\Debug\UserDatabase.exe
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\bin\Debug\UserDatabase.pdb
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\obj\Debug\UserDatabase.csprojAssemblyReference.cache
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\obj\Debug\UserDatabase.csproj.ResolveComReference.cache
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\obj\Debug\UserDatabase.csproj.CoreCompileInputs.cache
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\obj\Debug\UserDatabase.exe
+C:\Users\tly88\source\repos\UserDatabase\UserDatabase\obj\Debug\UserDatabase.pdb
